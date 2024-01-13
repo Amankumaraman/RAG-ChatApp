@@ -1,4 +1,3 @@
-streamlit==0.90.0
 openai==0.27.0
 langchain==0.0.1  # Replace with the correct version if available
 transformers==4.10.3
