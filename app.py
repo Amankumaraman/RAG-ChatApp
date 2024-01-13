@@ -2,10 +2,7 @@
 import streamlit as st
 import openai
 from main import get_index_for_pdf
-from langchain.chains import RetrievalQA
-from langchain.chat_models import ChatOpenAI
 import os
-import csv
 from transformers import GPT2Tokenizer
 import pandas as pd
 
