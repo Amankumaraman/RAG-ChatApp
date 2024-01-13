@@ -1,4 +1,4 @@
-faiss==1.7.0
+faiss
 pypdf
 streamlit
 openai
