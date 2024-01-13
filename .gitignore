@@ -1,0 +1,17 @@
+# .gitignore
+__pycache__/
+.vscode/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyzw
+*.log
+*.sqlite
+*.csv
+*.ipynb_checkpoints/
+.DS_Store
+.cache/
+streamlit/
+config.py  # Exclude the configuration file if you're using it
+.env       # Exclude the environment variable file if you're using it
