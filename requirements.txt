@@ -1,4 +1,8 @@
+re
+faiss
+pypdf
+streamlit
 openai
-langchain  # Replace with the correct version if available
+langchain
 transformers
 pandas
